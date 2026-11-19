@@ -212,6 +212,8 @@ BuyRight helps users find suitable laptops and smartphones based on their **budg
 
 ### AI-Powered Software Architecture Generator
 
+<sub>🚧 Currently Under Development</sub>
+
 ArchiMate is a developer-focused platform designed to transform application requirements into structured and visual software architecture representations.
 
 ### ✨ Highlights
@@ -223,12 +225,10 @@ ArchiMate is a developer-focused platform designed to transform application requ
 * Structured system representation
 * Modern responsive design
 
-### 🔗 Project
+### 🔗 Project Status
 
 <p>
-  <a href="https://archi-mate-workflow.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit-2563EB?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/🚧%20Under%20Development-FFA500?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
